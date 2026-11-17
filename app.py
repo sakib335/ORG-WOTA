@@ -13,7 +13,7 @@ TELEGRAM_BOT_TOKEN = "9246801858:AAETWlzi06ndCpFiM1mbvEThgsOjyIo2H-w"
 TELEGRAM_CHAT_ID   = "7528851822"
 # ═══════════════════════════════════════════════════════════════
 
-FF_API = "https://ff-jwt-gen-api.lovable.app/api/public/token"
+FF_API = "https://clientbp.freefireind.in"
 
 
 def decode_nickname(encoded):
